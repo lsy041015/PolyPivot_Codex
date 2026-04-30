@@ -1,7 +1,8 @@
 # 🚀 Agentic Terminal Coder (ATC)
 > **"Terminal-based Agentic Coding Assistant powered by Multi-LLM Rotation"**
 
-ATC는 터미널(TUI) 환경에서 작동하는 자율 코딩 에이전트입니다. Google Gemini API와 GitHub Models API를 지능적으로 로테이션하여 **API 호출 제한 없이 24/7 개발을 지원**하며, 스킬(Skill) 기반의 반복적인 개선 루프를 통해 개발자의 생산성을 극대화합니다.
+ATC는 터미널(TUI) 환경에서 작동하는 자율 코딩 에이전트입니다. Claude Code와 GPT Codex를 래퍼런스하였으며, 사용자가 정기 구독을 하지 않고 완전 무료로 사용할 수 있는 TOOL개발을 목표로 합니다.
+Google Gemini API와 GitHub Models API를 지능적으로 로테이션하여 **API 호출 제한 없이 24/7 개발을 지원**하며, 스킬(Skill) 기반의 반복적인 개선 루프를 통해 개발자의 생산성을 극대화합니다.
 
 ---
 
